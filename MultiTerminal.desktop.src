@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=MultiTerminal
+Exec=MultiTerminal
+Icon=/usr/local/share/MultiTerminal/icons/MultiTerminal_128.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Development;

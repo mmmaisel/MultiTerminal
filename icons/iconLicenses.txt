@@ -1,0 +1,41 @@
+########################################################################
+
+All icons are based on the following ones, taken from
+http://openiconlibrary.sourceforge.net
+
+original filename			/ author or src	/ license
+
+arrow-turn-right.png		/ famfamfam-silk/ CC-BY-2.5 or CC-BY-3.0
+audio-input-line.png		/ oxygen		/ CC-BY-SA 3.0 or LGPL
+configure-4.png				/ oxygen		/ CC-BY-SA 3.0 or LGPL
+dialog-cancel-4.png			/ nuvola		/ LGPL-2.1
+document-new-7.png			/ crystal_clear / LGPL-2.1
+edit-add.png				/ crystal		/ LGPL-2.1
+irkickflash.png				/ crystal		/ LGPL-2.1
+konsole-2.png				/ crystal		/ LGPL-2.1
+media-playback-start-7.png	/ nuvola		/ LGPL-2.1
+media-playback-stop-7.png	/ nuvola		/ LGPL-2.1
+network-disconnect-3.png	/ oxygen		/ CC-BY-SA 3.0 or LGPL
+
+## Used resources in individual icons
+
+add-preset.png			/ document-new-7.png, edit-add.png
+clear-rx.png			/ irkickflash.png
+clear-term.png			/ konsole-2.png
+clear-tx.png			/ irkickflash.png
+connect.png				/ network-disconnect-3.png
+del-preset.png			/ document-new-7.png, dialog-cancel-4.png
+disconnect.png			/ network-disconnect-3.png, dialog-cancel-4.png
+edit-preset-png			/ document-new-7.png, configure-4.png
+pin-active.png			/ audio-input-line.png
+pin-inactive.png		/ audio-input-line.png
+save-term.png			/ konsole-2.png, document-new-7.png, arrow-turn-right.png
+start-log.png			/ document-new-7.png, media-playback-start-7.png
+stop-log.png			/ document-new-7.png, media-playback-stop-7.png
+tx-file.png				/ document-new-7.png, irkickflash.png
+MultiTerminal.png		/ konsole-2.png, media-playback-stop-7.png
+
+All modified icons are licensed under the terms of the LPGL-2.1.
+Copyright (c) 2018, Max Maisel
+
+########################################################################
